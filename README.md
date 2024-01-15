@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Cede555
-- 👀 I’m interested in learning anything and everything.
-- 🌱 I’m currently learning Front-end Web dev techniques and Python for automation.
-- 💞️ I’m looking to collaborate on any projects!
+- 👀 Curious Cyber-hobbiest!
+- 🌱 I’m currently learning Front-end Web development by working through The Odin Project.
+- 🎮 Very interested in Game-development, have begginer experience in Unity.
+- 🖥️ First line support experience lead to my interest in Cyber-security!
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me, Discord: Cede#4542
