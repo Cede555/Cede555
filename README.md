@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cede555
 - 👀 Curious Cyber-hobbiest!
 - 🌱 I’m currently learning programming in C++..
-- 🎮 Very interested in Game-development, have begginer experience in Unity.
+- 🎮 Sometimes I work on games from scratch!
 - 🖥️ First line support experience lead to my interest in Cyber-security!
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me, Discord: Cede#4542
