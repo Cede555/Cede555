@@ -4,4 +4,4 @@
 - 🎮 Sometimes I make games?
 - 🖥️ First line support experience lead to my interest in Cyber-security!
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me, Discord: Cede#4542
+- 📫 How to reach me, Discord: Cede555
