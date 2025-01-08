@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cede555
 - 👀 Curious Cyber-hobbiest!
-- 🌱 I’m currently learning programming in C++..
-- 🎮 Sometimes I make games?
+- 🌱 Currently pushing my programming skills with my 12 weeks of projects idea.
+- 🎮 Sometimes I relax by making some fun games.
 - 🖥️ First line support experience lead to my interest in Cyber-security!
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me, Discord: Cede555
